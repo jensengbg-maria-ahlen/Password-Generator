@@ -1,0 +1,23 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generator1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensengbg-maria-ahlen/Password-Generator.git"
+  },
+  "author": "maria åhlén",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jensengbg-maria-ahlen/Password-Generator/issues"
+  },
+  "homepage": "https://github.com/jensengbg-maria-ahlen/Password-Generator#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "js-sha1": "^0.6.0"
+  }
+}
